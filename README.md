@@ -7,7 +7,7 @@ Nesse repositorio está sendo alocado as atividades praticas propostas na materi
 
 ## Roadmap
 
-- [!Weather]()
+- [!Aula 01 - Tags Principais](https://github.com/oderlanfreire/desenvolvimento_web/tree/main/aula01_tags-principais)
 
 
 ## Tecnologias:
