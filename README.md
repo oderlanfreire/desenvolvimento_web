@@ -9,6 +9,8 @@ Nesse repositorio está sendo alocado as atividades praticas propostas na materi
 
 - [Aula 01 - Tags Principais](https://github.com/oderlanfreire/desenvolvimento_web/tree/main/aula01_tags-principais)
 
+- [Aula 02 - Estrutura Semântica Básica](https://github.com/oderlanfreire/desenvolvimento_web/tree/main/aula02_estrutura_semantica_basica)
+
 
 ## Tecnologias:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
