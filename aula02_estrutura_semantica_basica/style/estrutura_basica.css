@@ -1,3 +1,23 @@
 #titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    font-variant:small-caps;
+    color:#e21b1b;
+}
+
+.paragrafos{
+    font-variant: small-caps;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 30px;
+}
+
+#parag2{
     color: red;
+    background-color: yellow;
+}
+
+.destaque{
+    color: white;
+    background-color: black;
 }
